@@ -348,3 +348,5 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+/AirportWeatherService.Docker.Build.cmd
+/AirportWeatherService/AirportWeatherService.Docker.Build.cmd
